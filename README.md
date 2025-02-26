@@ -7,7 +7,9 @@ This is an example [**Frame (v2)**](https://docs.farcaster.xyz/developers/frames
 
 This app is built with [NextJS](https://nextjs.org/), and makes uses of libraries like [`@farcaster/frame-sdk`](https://www.npmjs.com/package/@farcaster/frame-sdk)
 
+## Live Demo
 
+To see this demo in action, share [`https://openfort-frames-v2-demo.vercel.app/`](https://openfort-frames-v2-demo.vercel.app/) in any Farcaster client that supports Frames (e.g. Warpcast) and interact with it.
 
 ## Setup
 
